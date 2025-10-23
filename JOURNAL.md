@@ -6,3 +6,15 @@
   ==================================================================
 -->
 
+## 10/24/2025 - Began with Reading Datasheets  
+
+Read the Data sheet of the DF robot mp3 player and Atmega328p. Also i will be using a 3.7 LiPo battery with it so i would need to step up the voltage to 5v for the module and Atmega328p IC run properly. 
+Thinking of using mt3608 step up ic.
+Will also be adding a charging circuit to make it as portable as possible. 
+Thinking of adding a OLED display to it for seeing the status and track playing but no sure about it since i will need to design a enclosure incase i am adding one. Also adding it will cause a significant dip in the backup time . will decide later 
+
+https://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7810-Automotive-Microcontrollers-ATmega328P_Datasheet.pdf
+https://wiki.dfrobot.com/dfplayer_mini_sku_dfr0299
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDg3NSwicHVyIjoiYmxvYl9pZCJ9fQ==--98502813928641c4920bd5185c5ca22457263647/image.png)
+  
+
