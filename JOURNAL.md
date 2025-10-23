@@ -15,6 +15,7 @@ Thinking of adding a OLED display to it for seeing the status and track playing 
 
 https://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7810-Automotive-Microcontrollers-ATmega328P_Datasheet.pdf
 https://wiki.dfrobot.com/dfplayer_mini_sku_dfr0299
+
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDg3NSwicHVyIjoiYmxvYl9pZCJ9fQ==--98502813928641c4920bd5185c5ca22457263647/image.png)
   
 
