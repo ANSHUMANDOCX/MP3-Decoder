@@ -27,3 +27,14 @@ visually the schematic needs some more polishing will do it later.
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTA0OCwicHVyIjoiYmxvYl9pZCJ9fQ==--70754869dd1620355606561b5090fb3250a81a06/image.png)
   
 
+## 10/25/2025 - Polished the schematic and Routed the PCB  
+
+I properly labelled the sections of the Schematic and made it look cleaner.
+Started out with the PCB completed routing and turns out finding the exact package of the component u have with u in kicad is a challenge.
+Spent a considerable amount of time just looking at the PCB after complete routing to find the best and the most optimized route for a trace as possible. The pcb still needs some more work more of adding graphics and test points. 
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTIwNiwicHVyIjoiYmxvYl9pZCJ9fQ==--478cb2596347abc511017e0fa86eed4944deb59e/image.png)
+
+
+![Screenshot 2025-10-25 001547](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTIwNSwicHVyIjoiYmxvYl9pZCJ9fQ==--ef9f1153e0375a3a8144ed553e9df5762ce7fb97/Screenshot%202025-10-25%20001547.png)
+  
+
