@@ -6,7 +6,7 @@
   ==================================================================
 -->
 
-## 10/24/2025 - Began with Reading Datasheets  
+## 10/24/2025 12 AM - Began with Reading Datasheets  
 
 Read the Data sheet of the DF robot mp3 player and Atmega328p. Also i will be using a 3.7 LiPo battery with it so i would need to step up the voltage to 5v for the module and Atmega328p IC run properly. 
 Thinking of using mt3608 step up ic.
@@ -17,5 +17,13 @@ https://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7810-Automotive-Microcont
 https://wiki.dfrobot.com/dfplayer_mini_sku_dfr0299
 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDg3NSwicHVyIjoiYmxvYl9pZCJ9fQ==--98502813928641c4920bd5185c5ca22457263647/image.png)
+  
+
+## 10/24/2025 1 PM - completed the schematic   
+
+Began with sourcing the Symbol and Footprint for the DF mini mp3 player. Took a look at existing circuits using base atmega328p. Also decided to add a ADC pin to constantly monitor the battery voltage and show the playtime left on the oled. 
+visually the schematic needs some more polishing will do it later.
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTA0OCwicHVyIjoiYmxvYl9pZCJ9fQ==--70754869dd1620355606561b5090fb3250a81a06/image.png)
   
 
