@@ -27,7 +27,7 @@ visually the schematic needs some more polishing will do it later.
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTA0OCwicHVyIjoiYmxvYl9pZCJ9fQ==--70754869dd1620355606561b5090fb3250a81a06/image.png)
   
 
-## 10/25/2025 - Polished the schematic and Routed the PCB  
+## 10/25/2025 12 AM - Polished the schematic and Routed the PCB  
 
 I properly labelled the sections of the Schematic and made it look cleaner.
 Started out with the PCB completed routing and turns out finding the exact package of the component u have with u in kicad is a challenge.
@@ -36,5 +36,17 @@ Spent a considerable amount of time just looking at the PCB after complete routi
 
 
 ![Screenshot 2025-10-25 001547](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTIwNSwicHVyIjoiYmxvYl9pZCJ9fQ==--ef9f1153e0375a3a8144ed553e9df5762ce7fb97/Screenshot%202025-10-25%20001547.png)
+  
+
+## 10/25/2025 1 PM - Completed the PCB more or less  
+
+Added all the pin labels multiple ground vias. i also decided to add a test point for 5v since i am using a mt3608 voltage booster ic so before i assemble the rest of the components i need to check if the board a 5v constant or not so added test point for those. 
+added labeled the buttons and the programing header pinwise.
+this the almost final pcb 
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTM4MywicHVyIjoiYmxvYl9pZCJ9fQ==--ee585336804f363b48e0c678337b62bd0e33e307/image.png)
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTM4NCwicHVyIjoiYmxvYl9pZCJ9fQ==--b444fe426ce6622c63d4a2534c94b3745c5c85b5/image.png)
+
   
 
