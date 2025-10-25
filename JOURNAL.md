@@ -44,9 +44,11 @@ Added all the pin labels multiple ground vias. i also decided to add a test poin
 added labeled the buttons and the programing header pinwise.
 this the almost final pcb 
 
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTM4NCwicHVyIjoiYmxvYl9pZCJ9fQ==--b444fe426ce6622c63d4a2534c94b3745c5c85b5/image.png)
+
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTM4MywicHVyIjoiYmxvYl9pZCJ9fQ==--ee585336804f363b48e0c678337b62bd0e33e307/image.png)
 
-![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTM4NCwicHVyIjoiYmxvYl9pZCJ9fQ==--b444fe426ce6622c63d4a2534c94b3745c5c85b5/image.png)
+
 
   
 
