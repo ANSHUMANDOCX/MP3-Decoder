@@ -52,3 +52,9 @@ this the almost final pcb
 
   
 
+## 10/25/2025 3 PM - started with the 3d model   
+
+imported the DXF from kicad to exactly match the positions of the holes on the pcb since they are not uniformly placed. planning to keep 4mm borders but still not sure how i will screw them in place since the screws i have have a big head maybe will get some counter sunk ones. 
+here is the sketch ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTQxMSwicHVyIjoiYmxvYl9pZCJ9fQ==--b728124d1bb4b55a5ca83cc0e539bd52f6fa189f/image.png)
+  
+
