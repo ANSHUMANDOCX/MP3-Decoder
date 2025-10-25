@@ -58,3 +58,14 @@ imported the DXF from kicad to exactly match the positions of the holes on the p
 here is the sketch ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTQxMSwicHVyIjoiYmxvYl9pZCJ9fQ==--b728124d1bb4b55a5ca83cc0e539bd52f6fa189f/image.png)
   
 
+## 10/25/2025 7 PM - Made the Base of the model  
+
+Made the rough part of the base also put in the 3d board for referencing.
+planning to use heatset inserts for fixing the PCB to base. 
+thinking to attach the top directly to the body since i dont want to made the walls of the case thick.
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTQ1MSwicHVyIjoiYmxvYl9pZCJ9fQ==--fad1683c86d57f654817a097dce851f42f4e2d2d/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTQ1MiwicHVyIjoiYmxvYl9pZCJ9fQ==--c09bb318d14afebd7949eb331ef950cabef0e81f/image.png)
+
+  
+
