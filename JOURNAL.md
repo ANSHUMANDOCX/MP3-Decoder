@@ -69,3 +69,13 @@ thinking to attach the top directly to the body since i dont want to made the wa
 
   
 
+## 10/26/2025 - Completing the CAD  
+
+Added Holes for the Switch and the charging indicator also raised the overall height to house the battery inside of it too.
+
+Also designed the top also made proper housing for the OLED display in it.
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTcwNSwicHVyIjoiYmxvYl9pZCJ9fQ==--77014f2f7d303cf96334de09e4c65be8d9378e70/image.png)![Screenshot 2025-10-26 191618](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTcwNiwicHVyIjoiYmxvYl9pZCJ9fQ==--bce9d7c2fab151812789dcb5353fde76b5b4b34c/Screenshot%202025-10-26%20191618.png)
+
+  
+
