@@ -4,6 +4,8 @@ This is a Portable MP3 player which allows one to play music on the even at plac
 You can also view almost all the details you would require while listenting to music on the OLED dispaly that will be connected to it.
 Also has a capbility to be programmed using a Arduino or a FTDI programmer.
 
+**Untested Firmware**
+
 Features-
 - Atmega328p as a MCU
 - DF player MINI (DFR0299) as a MP3 decoder(since i already had it lying around)
